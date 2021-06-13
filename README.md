@@ -4,11 +4,7 @@
 
 ### Clone da interface do aplicativo "Nubank" realizado em react-native.
 
-
-
-
-
-
+https://user-images.githubusercontent.com/42393018/121794446-77eb0000-cbde-11eb-89de-f2f2a0c8c345.mp4
 
 ## Além da interface, foi adicionado algumas funcionalidades:
 
