@@ -4,6 +4,12 @@
 
 ### Clone da interface do aplicativo "Nubank" realizado em react-native.
 
+
+
+
+
+
+
 ## Além da interface, foi adicionado algumas funcionalidades:
 
 + Exibir/Esconder valores
