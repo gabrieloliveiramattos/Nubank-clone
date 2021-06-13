@@ -69,7 +69,7 @@ export default function MenuUp(){
                 >
                     <CardHeader>
                         <Icon name="attach-money" size={28} color="#666" />
-                        <TapGestureHandler onActivated={()=>{setShow(!show)}}>
+                        <TapGestureHandler minPointers={1} numberOfTaps={1} onActivated={()=>{setShow(!show)}}>
                           <Icon name={show == false ? "visibility-off" : "visibility" } size={28} color="#666" />
                         </TapGestureHandler>
                     </CardHeader>
